@@ -50,29 +50,4 @@ A secondary control PCB inside the enclosure includes a rotary encoder, switches
 * Uniform diffused backlighting
 * Integrated user control interface
 
-## Repository Contents
 
-pcb/
-KiCad schematic and PCB layout files
-
-firmware/
-Microcontroller firmware
-
-cad/
-Mechanical enclosure models
-
-images/
-Photos of assembled boards and prototypes
-
-docs/
-Design documentation and notes
-
-## Project Status
-
-Prototype version V1.21 completed and assembled.
-
-## Author
-
-Hazel Chen
-Mechanical and Electrical Engineering Student
-University of Virginia
